@@ -1,2 +1,2 @@
 # SCP1
-Sofc Computing Project 1
+Soft Computing Project 1
